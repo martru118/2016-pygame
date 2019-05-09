@@ -1,0 +1,20 @@
+ ___ (@)    ___ (@)      ___ (@)       ___ (@)      ___ (@)
+|.-.|/     |.-.|/       |.-.|/        |.-.|/       |.-.|/
+|| |/      || |/        || |/         || |/        || |/
+|| /|      || /|        || /|         || /|        || /|
+||/||      ||/||        ||/||         ||/||        ||/||
+|| ||      || ||        || ||         || ||        || ||
+|| ||      || ||        || ||         || ||        || ||
+'---'      '---'        '---'         '---'        '---'
+
+Welcome to the Lever Room! This is a new addition to the castle as they were talking about it in the Meeting Room.
+This room is used to open some of the castle's locked rooms! Unfortunately, the castle is under construction, so there aren't much rooms to unlock.
+Fortunately, the room that you are trying to unlock is hooked up to the Levers Room!  You need to get the levers right for that door to open.
+
+Instructions:
+There are five levers in this room. Each lever is up by default and down when you force it to.
+You cannot put the lever halfway or in positions other than up or down. This will cause a malfunction and you have to do this stage again!
+The positions of the levers must match a pre-determined configuration. If not, try again.
+Correct configuration unlocks the Storage Room.
+
+Good luck!

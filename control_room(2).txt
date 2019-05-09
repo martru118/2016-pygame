@@ -1,0 +1,25 @@
+╔═════════════════╗
+║                             ║
+║   ①                     ②  ║
+║                             ║
+║   ③     ④      ⑤       ⑥  ║
+║                             ║
+║   ⑦                     ⑧  ║
+║                             ║
+╚═════════════════╝
+
+To unlock the Storage Room, please finish this puzzle first.
+By finishing this puzzle, you deactivate the security features for parts of the starship.
+
+Instructions:
+Each button is currently disconnected. Connect the buttons by pressing it.
+When you press it, the buttons will change colour. This applies to all eight buttons.
+Two buttons need to be coloured in order to be connected and each pair must be a different colour from the other pairs.
+Only a certain combination of pairs will deactivate the security in the Stroage Room.
+The colours are white, red, blue, and green.
+The buttons are white by default (0 presses).
+1 press = Red
+2 presses = Blue
+3 presses = Green
+
+Good luck!

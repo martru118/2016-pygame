@@ -1,0 +1,56 @@
+You have arrived in Front of someone's House. The entrance is to the north. n 
+You are now in the Entrance of the house.
+It seems like nobody's home.
+Enter through the north and enter the Garage through the west. w 
+You are now in the Garage.
+You find a key. You take the key.
+There is the number 5 on it. n 
+You are now in the Living Room. w 
+You are now in the first floor Washroom. There is a room to the north. n 
+You use a key to enter the Utilities Room.
+You find a key. You take the key.
+There is the number 20 on it. s 
+You are now in the first floor Washroom. There is a room to the north. e 
+You are now in the Living Room. e 
+Stairs (First Floor)
+Enter 'n' to go upstairs and 's' to go downstairs. Leave through the west. s 
+You are now in the Basement.
+There is the person's Home Office to the south. s 
+You use a key to open the person's Home Office.
+There are computers everywhere.
+You find a key. You take the key.
+There is the number 14 on it. n 
+You are now in the Basement.
+There is the person's Home Office to the south. e 
+Stairs (Basement)
+Enter 'n' to go upstairs and leave though the west. n 
+You are now in the Living Room. e 
+Stairs (First Floor)
+Enter 'n' to go upstairs and 's' to go downstairs. Leave through the west. n 
+You are now in the Second Floor Hallway. n 
+You are now in the Master Bedroom. There is a room to the west. w 
+You use a key to enter the Multi-Purpose Room.
+You find a key. You take the key.
+There is the number 18 on it. e 
+You are now in the Master Bedroom. There is a room to the west. s 
+You are now in the Second Floor Hallway. w 
+You are now in the second floor Washroom. There is a door to the north. n 
+You are now in the Closet.
+You find a key. You take the key.
+There is the number 16 on it. e 
+You are now in the Second Floor Hallway. s 
+You are now in an Empty Room. There is a room to the west. w 
+You use a key to enter the Storage Room. e 
+You are now in an Empty Room. n 
+You are now in the Second Floor Hallway. e 
+Stairs (Second Floor)
+Enter 's' to go downstairs and leave through the west. s 
+You are now in the Living Room. n 
+You are now in the Dining Room.
+There is a shopping list on the table. There is the backyard to the north. n 
+You unlock the back door to enter the Backyard.
+Leave through the east or west. You hear a car pull up.
+You must hurry up and leave the house. e 
+You have arrived in Front of someone's House. The entrance is to the north. s 
+
+With the third time piece retrieved, you enter your time machine.

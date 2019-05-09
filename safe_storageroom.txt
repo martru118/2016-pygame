@@ -1,0 +1,24 @@
+You see filing cabinets in the Storage Room. You are not really sure what to do here.
+     __________
+   /          /|
+ /__________/  |
+ |________ |   |
+ /_____  /||   |
+|".___."| ||   |
+|_______|/ |   |
+ || .___."||  /
+ ||_______|| /
+ |_________|/
+
+ But then on top of the filing cabinets, you see a safe hidden among the cabinets. You assume that your time piece is there.
+ A password is needed to open the safe. There is a hint that the homeowner has written down:
+ "TO OPEN SAFE, CHECK YOUR KEYS."
+ You check your keys. Each number on five the keys you got have a number on them.
+ You assume that the password is a certain combination of the five numbers, so you decide to try and open the safe.
+
+ Instructions:
+ It is just like opening a reguler safe. Just follow the instructions.
+ However, this safe is armed and it will sound an alarm when tampered with.
+ You only have a limited number of tries to open the safe.
+
+ Good luck and don't let the homeowner catch you!
